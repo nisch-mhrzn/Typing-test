@@ -1,7 +1,7 @@
 # Typing Speed Test
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/nsich-mhrzn/Typing-test)
+![Last Commit](https://img.shields.io/github/last-commit/nisch-mhrzn/Typing-test)
 ![Repo Size](https://img.shields.io/github/repo-size/nisch-mhrzn/Typing-test)
 
 ## 🚀 Overview
